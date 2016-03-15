@@ -9,6 +9,6 @@ submit.onclick = function() {
 	var borough = document.getElementById("borough").value;
 	console.log(name, email, borough);
 	var message = document.getElementById("message");
-	message.innerHTML = " Hello " + name + " from " 
+	message.innerHTML = " Hello " + name + " from "
 	 + borough + ", welcome to my website.";
 };

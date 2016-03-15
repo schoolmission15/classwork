@@ -2,7 +2,7 @@
 
 body {
     font-family: helvetica, arial, sans-serif;
-    background: lightblue;
+    background: darkred;
     margin: 0;
     line-height: 1.45;
 }
@@ -13,18 +13,24 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: whitesmoke;
+    font-family: arial, sans-serif;
     font-weight: 200;
+    border-style: solid;
+    text-align: center;
 }
 
 p, ul {color: white;
+    font-family:, sans-serif;
 }
 
-img {width: 200px;}
+img {width: 500px;
+}
 
-a {color:black; 
+a {color:yellow;
    text-decoration: none;
     transition: color 500ms;
+    border-style: solid;
 }
 
 a:hover {color: green;
@@ -32,7 +38,8 @@ a:hover {color: green;
 
 ul {list-style: none;
     padding: 0;
-    color: black;
+    color: lightyellow;
+    border-style: solid;
 }
 
 ul li {

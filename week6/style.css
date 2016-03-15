@@ -1,0 +1,23 @@
+body {
+  font-family: helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+
+  width: 600px;
+  margin: 96px auto;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 10px;
+    text-align: center;
+}
+
+#todolist-container {
+  padding: 0;
+  margin-top: 64px;
+}
+
+#new-task-input {
+  width: 360px;
+  font-size: 16px;
+  line-height: 1.4em;
+}
