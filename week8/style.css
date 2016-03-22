@@ -1,0 +1,16 @@
+body {
+  font-family: helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+
+   width: 600px;
+      margin: 96px auto;
+    background-color: lightgreen;
+    border-style: solid;
+    border-width: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: grey;
+}

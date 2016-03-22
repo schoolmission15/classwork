@@ -1,0 +1,23 @@
+form{
+    max-width: 360px;
+    height: 360px;
+    margin: 5em auto;
+    padding: 5em 7em;
+    background-color: ;
+    border: 2em dotted indigo ;
+    border-style: groove;
+}
+
+
+input{
+    display: block;
+    border-style: double;
+	margin-top: 2em;
+}
+
+.button{
+    font-size: 25px;
+    background-color: yellow ;
+    border: 2em dotted indigo ;
+    border-style: groove;
+}

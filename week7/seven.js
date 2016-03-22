@@ -1,6 +1,6 @@
 var question = [
     "is the sky blue?",
-    "what is the cpatial of latvial?"
+    "what is the capital of latvial?"
     "what is 2 + 3?"
                 ];
 
